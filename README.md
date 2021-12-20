@@ -211,7 +211,7 @@ Gulp: `gulp server`
 * Run BrowserSync static server
 
 
-## Live reload 
+## Live reload
 
 This project uses BrowserSync as static server with enabled and configured live reload option.
 
